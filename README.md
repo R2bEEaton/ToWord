@@ -1,5 +1,7 @@
 # ToWord
-A small javascript function to convert numbers as big as 4,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 to easy to read strings like "4.00 Vigintillion".
+A small javascript function to convert numbers to, without modification^, numbers as large as 999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999,999 to easy to read numbers like 999 Novemquadragintillion.
+
+^To break this limit, simply add more values from http://www.thealmightyguru.com/Pointless/BigNumbers.html to the array found in ToWord.js.
 
 A demo can be found at http://artoo.ga/ToWord/index.html.
 
