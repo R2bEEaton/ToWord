@@ -16,5 +16,5 @@ Set "rl" to the length of "number" minus "length". In this case, 3. (4 - 1)
 [round is a function that rounds an integer to 2 decimal places]
 Set "d" to round(number/(10^rl)). In this case, (10^rl) = 1000, so "d" = round(2.345) or 2.34.
 Set "pre" to Math.round(number/(10^rl)). In this case, 2.
-If the length of "pre" is greater than 3, repeat all of the steps and add one to a variable holding "rl"/3.
+If the length of "pre" is greater than 3, repeat all of the steps, replacing "pre" with "number", and add one to a variable holding "rl"/3.
 Then return d + the "rl/3" value of the array holding the place values. In this case, "2.34 thousand".
