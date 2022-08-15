@@ -3,7 +3,7 @@ A small javascript function to convert numbers to, without modification^, number
 
 ^To break this limit, simply add more values from http://www.olsenhome.com/bignumbers/ to the array found in ToWord.js.
 
-A demo can be found at http://artoo.ga/ToWord/index.html.
+A demo can be found at https://R2bEEaton.com/ToWord/index.html.
 
 Logic Section:
 
