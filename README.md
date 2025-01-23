@@ -3,8 +3,6 @@ A small javascript function to convert numbers to, without modification^, number
 
 ^To break this limit, simply add more values from http://www.olsenhome.com/bignumbers/ to the array found in ToWord.js.
 
-A demo can be found at https://R2bEEaton.com/ToWord/index.html.
-
 Logic Section:
 
 "number" is an integer that you want converted into words.
